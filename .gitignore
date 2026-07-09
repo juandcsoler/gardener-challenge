@@ -1,0 +1,11 @@
+# Terraform — never commit state or your own variable values
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.json
+.terraform/
+crash.log
+
+# Local
+.DS_Store
+*.swp

@@ -1,0 +1,8 @@
+{
+  "aws_region": "eu-west-1",
+  "instance_type": "m5.2xlarge",
+  "root_volume_size_gb": 200,
+  "allowed_ssh_cidr": "YOUR.IP.HERE/32",
+  "public_key_path": "~/.ssh/id_ed25519.pub",
+  "name_prefix": "gardener-challenge"
+}
