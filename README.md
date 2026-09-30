@@ -3,7 +3,7 @@
 My take-home for STACKIT: deploy [Gardener](https://gardener.cloud/), document what worked and what
 didn't, and give an honest opinion on whether it fits a private / potentially air-gapped cloud.
 
-> **Update (Sept 2026):** Following this exercise, I joined STACKIT and am now actively contributing to the [Gardener project](https://github.com/gardener) upstream.
+> **Update (Sept 2026):** Following this exercise, I joined STACKIT and have since made my first contribution to the [Gardener project](https://github.com/gardener) upstream.
 
 ## What I built
 
